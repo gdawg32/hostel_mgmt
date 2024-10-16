@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "522151808185",
+    "project_id": "hostel-dbc9c",
+    "storage_bucket": "hostel-dbc9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522151808185:android:529b94c79de91ffcd81f68",
+        "android_client_info": {
+          "package_name": "com.example.hostel_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7HWmF9lM-mKAvqmMD2Wm6-yQuDFuzpDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522151808185:android:f1f87c196d8eb640d81f68",
+        "android_client_info": {
+          "package_name": "com.example.hote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7HWmF9lM-mKAvqmMD2Wm6-yQuDFuzpDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
